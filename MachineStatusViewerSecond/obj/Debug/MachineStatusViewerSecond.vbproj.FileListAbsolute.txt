@@ -1,0 +1,15 @@
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\bin\Debug\MachineStatusViewerSecond.exe
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\bin\Debug\MachineStatusViewerSecond.pdb
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\bin\Debug\MachineStatusViewerSecond.xml
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.Form1.resources
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.Resources.resources
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.vbproj.GenerateResource.Cache
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.exe
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.xml
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.pdb
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.FrmRunProd.resources
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.FrmOnGoingRep.resources
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.FrmIDLE.resources
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.FrmNoMaterial.resources
+C:\Users\zbdynv\Documents\Visual Studio 2008\Projects\MachineStatusViewerSecond\MachineStatusViewerSecond\obj\Debug\MachineStatusViewerSecond.FrmEBR.resources
